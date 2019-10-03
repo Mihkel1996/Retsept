@@ -5,18 +5,26 @@ body {
 }
 h1 {
     border: 5px solid green;
-    width: 300px;
+}
+h2 {
+    border: 5px solid yellow;
+}
+hr {
+    border: 5px solid orange;
 }
 div {
     box-sizing: border-box;
     padding: 10px;
     width: 250px;
 }
-p {
+li {
     margin: 0;
 }
-.red {
-    background-color: red;
+ol {
+    background-color: salmon;
+}
+.blue {
+    background-color: blue;
     
 }
 .orange {
